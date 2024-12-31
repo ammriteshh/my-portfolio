@@ -19,5 +19,3 @@ This portfolio was built using:
 ## 🚀 Live Demo
 Check out the live version of my portfolio:  
 [My Portfolio Website](https://ammriteshh.netlify.app/)
-
-## 📁 Folder Structure
