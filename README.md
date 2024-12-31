@@ -14,12 +14,10 @@ This portfolio was built using:
 - **CSS**: Styling and layout.
 - **JavaScript**: Interactivity and animations.
 - **Optional Add-ons**:
-  - [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.
-  - [React](https://reactjs.org/) for dynamic components.
   - [Netlify](https://www.netlify.com/) for deployment.
 
 ## 🚀 Live Demo
 Check out the live version of my portfolio:  
-[My Portfolio Website](https://bright-kataifi-aa6627.netlify.app)
+[My Portfolio Website](https://ammriteshh.netlify.app/)
 
 ## 📁 Folder Structure
