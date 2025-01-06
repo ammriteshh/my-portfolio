@@ -2,6 +2,22 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
+
+:root {
+  --background-color: white;
+  --text-color: black;
+}
+
+.dark-theme {
+  --background-color: #121212;
+  --text-color: white;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
 * {
   margin: 0;
   padding: 0;
